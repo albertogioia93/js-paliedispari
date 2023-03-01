@@ -8,3 +8,7 @@ COME SVOLGO QUESTO ESERCIZIO:
 - salvo la parola inserita in una variabile const
 - creo una funzione che clona la parola inserita dall'utente e compara le singole lettere tra parola originale e clonata
 - se in tutte le posizioni ci sono le lettere uguali tra parola originale e parola clonata allora è true, altrimenti è false
+
+MI CORREGGO:
+
+- è buona prassi creare una funzione sempre in cima a tutti gli altri passaggi che si devono eseguire dopo
